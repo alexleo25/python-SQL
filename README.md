@@ -39,6 +39,7 @@ This is an end-to-end data analysis project using a sample dataset from Kaggle. 
    - Performed aggregations, filtering, grouping and subqueries
 
 ## Note
-csv file-[orders.csv[https://github.com/alexleo25/python-SQL/blob/8e973d3eebe4f72d332919f592e7b80311857622/orders.csv]]
+ [Dataset]
+  ([orders.csv](https://github.com/alexleo25/python-SQL/blob/8e973d3eebe4f72d332919f592e7b80311857622/orders.csv))
 python file-[]
 sql file-[queires.sql[https://github.com/alexleo25/python-SQL/blob/99fc2ee1372df414f0f31f9cf09e1172fad6ae8e/queries.sql]]
