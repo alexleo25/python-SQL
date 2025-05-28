@@ -8,7 +8,7 @@ This is an end-to-end data analysis project using a sample dataset from Kaggle. 
 
 - *Objective:* Clean raw data, export it to a relational database, and perform SQL-based data analysis.
 - *Tools Used:* Python, Pandas, Jupyter Notebook, MySQL, MySQL Workbench
-- *Dataset:* []
+- *Dataset:* [https://github.com/alexleo25/python-SQL/blob/8e973d3eebe4f72d332919f592e7b80311857622/orders.csv]
 
 ---
 
@@ -29,19 +29,15 @@ This is an end-to-end data analysis project using a sample dataset from Kaggle. 
    - Performed feature selection and transformation
 
 2. *Exporting to MySQL*
-   - Established connection with MySQL using sqlalchemy / mysql-connector-python
+   - Established connection with MySQL using sqlalchemy
    - Created a table and exported cleaned DataFrame to MySQL database
 
 3. *SQL-Based Data Analysis*
    - Connected to MySQL Workbench
    - Queried cleaned data for exploratory analysis and insights
-   - Performed aggregations, joins, filtering, and grouping
+   - Performed aggregations, filtering, grouping and subqueries
 
----
-
-## 📌 Key SQL Queries Performed
-
-- Top N analysis
-- Aggregated statistics (e.g., average, min, max)
-- Time-based filtering (if applicable)
-- Grouped comparisons and trends
+## Note
+csv file-[ ]
+python file-[]
+sql file-[]
