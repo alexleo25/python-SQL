@@ -8,7 +8,7 @@ This is an end-to-end data analysis project using a sample dataset from Kaggle. 
 
 - *Objective:* Clean raw data, export it to a relational database, and perform SQL-based data analysis.
 - *Tools Used:* Python, Pandas, Jupyter Notebook, MySQL, MySQL Workbench
-- *Dataset:* [orders.csv[https://github.com/alexleo25/python-SQL/blob/8e973d3eebe4f72d332919f592e7b80311857622/orders.csv]]
+- *Dataset:* [orders.csv]([https://github.com/alexleo25/python-SQL/blob/8e973d3eebe4f72d332919f592e7b80311857622/orders.csv]])
 
 ---
 
